@@ -10,3 +10,7 @@ game_paths.txt：用来储存游戏的路径；
 只需要将下载的存档，解压后 放在脚本的对应游戏存档文件夹中即可
 
 steam游戏的存档工具，一键替换与保存存档，支持批量管理存档
+
+![QQ20250529-155537](https://github.com/user-attachments/assets/b3fe6a33-4a69-42c4-b836-90d9b1b1923b)
+![QQ20250529-155552](https://github.com/user-attachments/assets/c05cdbc9-bd30-41de-890f-1c4b8a73040b)
+![QQ20250529-155612](https://github.com/user-attachments/assets/d44fda1d-e226-467e-88b5-a6b3334be4b6)
